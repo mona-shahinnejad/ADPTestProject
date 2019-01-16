@@ -1,7 +1,7 @@
 # ADPTestProject
 
 Create a web API with endpoints to add and edit contacts. This should be exposed via a RESTful API.
-Create a desktop API application utilises this web API that allows you to add and edit contacts. You should also be able to search and select a contact from a contact list by name. 
+Create a API application utilises this web API that allows you to add and edit contacts. You should also be able to search and select a contact from a contact list by name. 
 The contacts must be allowed to have:
 •	First name - Required field
 •	Last name - Required field
